@@ -12,3 +12,17 @@ __pycache__/
 # Entornos virtuales
 venv/
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Datos generados
+*.csv
+
+# Entornos virtuales
+venv/
+.env
