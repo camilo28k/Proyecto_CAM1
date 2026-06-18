@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="950" viewBox="0 0 1000 950">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="520" y="35" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">Mapa de correlacion de variables</text>
+<text x="250" y="125" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">nivel_m</text>
+<rect x="260" y="90" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="287.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="315" y="90" width="55" height="55" fill="rgb(255,241,241)" stroke="#ffffff"/>
+<text x="342.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.11</text>
+<rect x="370" y="90" width="55" height="55" fill="rgb(238,238,255)" stroke="#ffffff"/>
+<text x="397.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.13</text>
+<rect x="425" y="90" width="55" height="55" fill="rgb(255,246,246)" stroke="#ffffff"/>
+<text x="452.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.07</text>
+<rect x="480" y="90" width="55" height="55" fill="rgb(252,252,255)" stroke="#ffffff"/>
+<text x="507.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.02</text>
+<rect x="535" y="90" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="562.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.04</text>
+<rect x="590" y="90" width="55" height="55" fill="rgb(255,247,247)" stroke="#ffffff"/>
+<text x="617.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.06</text>
+<rect x="645" y="90" width="55" height="55" fill="rgb(233,233,255)" stroke="#ffffff"/>
+<text x="672.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.17</text>
+<rect x="700" y="90" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="727.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="755" y="90" width="55" height="55" fill="rgb(240,240,255)" stroke="#ffffff"/>
+<text x="782.5" y="123" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.11</text>
+<text x="250" y="180" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">temperatura_c</text>
+<rect x="260" y="145" width="55" height="55" fill="rgb(255,241,241)" stroke="#ffffff"/>
+<text x="287.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.11</text>
+<rect x="315" y="145" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="342.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="370" y="145" width="55" height="55" fill="rgb(255,164,164)" stroke="#ffffff"/>
+<text x="397.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.70</text>
+<rect x="425" y="145" width="55" height="55" fill="rgb(176,176,255)" stroke="#ffffff"/>
+<text x="452.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.60</text>
+<rect x="480" y="145" width="55" height="55" fill="rgb(255,251,251)" stroke="#ffffff"/>
+<text x="507.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.03</text>
+<rect x="535" y="145" width="55" height="55" fill="rgb(219,219,255)" stroke="#ffffff"/>
+<text x="562.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.28</text>
+<rect x="590" y="145" width="55" height="55" fill="rgb(255,253,253)" stroke="#ffffff"/>
+<text x="617.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.01</text>
+<rect x="645" y="145" width="55" height="55" fill="rgb(218,218,255)" stroke="#ffffff"/>
+<text x="672.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.28</text>
+<rect x="700" y="145" width="55" height="55" fill="rgb(188,188,255)" stroke="#ffffff"/>
+<text x="727.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.51</text>
+<rect x="755" y="145" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="178" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="235" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">humedad_pct</text>
+<rect x="260" y="200" width="55" height="55" fill="rgb(238,238,255)" stroke="#ffffff"/>
+<text x="287.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.13</text>
+<rect x="315" y="200" width="55" height="55" fill="rgb(255,164,164)" stroke="#ffffff"/>
+<text x="342.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.70</text>
+<rect x="370" y="200" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="397.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="425" y="200" width="55" height="55" fill="rgb(255,208,208)" stroke="#ffffff"/>
+<text x="452.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.36</text>
+<rect x="480" y="200" width="55" height="55" fill="rgb(246,246,255)" stroke="#ffffff"/>
+<text x="507.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.06</text>
+<rect x="535" y="200" width="55" height="55" fill="rgb(255,234,234)" stroke="#ffffff"/>
+<text x="562.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.16</text>
+<rect x="590" y="200" width="55" height="55" fill="rgb(255,237,237)" stroke="#ffffff"/>
+<text x="617.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.14</text>
+<rect x="645" y="200" width="55" height="55" fill="rgb(255,221,221)" stroke="#ffffff"/>
+<text x="672.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.26</text>
+<rect x="700" y="200" width="55" height="55" fill="rgb(255,246,246)" stroke="#ffffff"/>
+<text x="727.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.06</text>
+<rect x="755" y="200" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="233" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="290" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">radiacion_solar_w_m2</text>
+<rect x="260" y="255" width="55" height="55" fill="rgb(255,246,246)" stroke="#ffffff"/>
+<text x="287.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.07</text>
+<rect x="315" y="255" width="55" height="55" fill="rgb(176,176,255)" stroke="#ffffff"/>
+<text x="342.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.60</text>
+<rect x="370" y="255" width="55" height="55" fill="rgb(255,208,208)" stroke="#ffffff"/>
+<text x="397.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.36</text>
+<rect x="425" y="255" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="452.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="480" y="255" width="55" height="55" fill="rgb(255,252,252)" stroke="#ffffff"/>
+<text x="507.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.02</text>
+<rect x="535" y="255" width="55" height="55" fill="rgb(212,212,255)" stroke="#ffffff"/>
+<text x="562.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.32</text>
+<rect x="590" y="255" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="617.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.04</text>
+<rect x="645" y="255" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="672.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.05</text>
+<rect x="700" y="255" width="55" height="55" fill="rgb(169,169,255)" stroke="#ffffff"/>
+<text x="727.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.66</text>
+<rect x="755" y="255" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="288" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="345" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">lluvia_mm</text>
+<rect x="260" y="310" width="55" height="55" fill="rgb(252,252,255)" stroke="#ffffff"/>
+<text x="287.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.02</text>
+<rect x="315" y="310" width="55" height="55" fill="rgb(255,251,251)" stroke="#ffffff"/>
+<text x="342.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.03</text>
+<rect x="370" y="310" width="55" height="55" fill="rgb(246,246,255)" stroke="#ffffff"/>
+<text x="397.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.06</text>
+<rect x="425" y="310" width="55" height="55" fill="rgb(255,252,252)" stroke="#ffffff"/>
+<text x="452.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.02</text>
+<rect x="480" y="310" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="507.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="535" y="310" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="562.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.00</text>
+<rect x="590" y="310" width="55" height="55" fill="rgb(252,252,255)" stroke="#ffffff"/>
+<text x="617.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.02</text>
+<rect x="645" y="310" width="55" height="55" fill="rgb(253,253,255)" stroke="#ffffff"/>
+<text x="672.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.01</text>
+<rect x="700" y="310" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="727.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.00</text>
+<rect x="755" y="310" width="55" height="55" fill="rgb(241,241,255)" stroke="#ffffff"/>
+<text x="782.5" y="343" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.10</text>
+<text x="250" y="400" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">direccion_viento_grados</text>
+<rect x="260" y="365" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="287.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.04</text>
+<rect x="315" y="365" width="55" height="55" fill="rgb(219,219,255)" stroke="#ffffff"/>
+<text x="342.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.28</text>
+<rect x="370" y="365" width="55" height="55" fill="rgb(255,234,234)" stroke="#ffffff"/>
+<text x="397.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.16</text>
+<rect x="425" y="365" width="55" height="55" fill="rgb(212,212,255)" stroke="#ffffff"/>
+<text x="452.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.32</text>
+<rect x="480" y="365" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="507.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.00</text>
+<rect x="535" y="365" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="562.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="590" y="365" width="55" height="55" fill="rgb(254,254,255)" stroke="#ffffff"/>
+<text x="617.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.01</text>
+<rect x="645" y="365" width="55" height="55" fill="rgb(242,242,255)" stroke="#ffffff"/>
+<text x="672.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.10</text>
+<rect x="700" y="365" width="55" height="55" fill="rgb(255,252,252)" stroke="#ffffff"/>
+<text x="727.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.02</text>
+<rect x="755" y="365" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="398" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="455" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">velocidad_viento_m_s</text>
+<rect x="260" y="420" width="55" height="55" fill="rgb(255,247,247)" stroke="#ffffff"/>
+<text x="287.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.06</text>
+<rect x="315" y="420" width="55" height="55" fill="rgb(255,253,253)" stroke="#ffffff"/>
+<text x="342.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.01</text>
+<rect x="370" y="420" width="55" height="55" fill="rgb(255,237,237)" stroke="#ffffff"/>
+<text x="397.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.14</text>
+<rect x="425" y="420" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="452.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.04</text>
+<rect x="480" y="420" width="55" height="55" fill="rgb(252,252,255)" stroke="#ffffff"/>
+<text x="507.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.02</text>
+<rect x="535" y="420" width="55" height="55" fill="rgb(254,254,255)" stroke="#ffffff"/>
+<text x="562.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.01</text>
+<rect x="590" y="420" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="617.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="645" y="420" width="55" height="55" fill="rgb(225,225,255)" stroke="#ffffff"/>
+<text x="672.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.22</text>
+<rect x="700" y="420" width="55" height="55" fill="rgb(255,226,226)" stroke="#ffffff"/>
+<text x="727.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.22</text>
+<rect x="755" y="420" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="453" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="510" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">presion_atmosferica_hpa</text>
+<rect x="260" y="475" width="55" height="55" fill="rgb(233,233,255)" stroke="#ffffff"/>
+<text x="287.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.17</text>
+<rect x="315" y="475" width="55" height="55" fill="rgb(218,218,255)" stroke="#ffffff"/>
+<text x="342.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.28</text>
+<rect x="370" y="475" width="55" height="55" fill="rgb(255,221,221)" stroke="#ffffff"/>
+<text x="397.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.26</text>
+<rect x="425" y="475" width="55" height="55" fill="rgb(255,249,249)" stroke="#ffffff"/>
+<text x="452.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.05</text>
+<rect x="480" y="475" width="55" height="55" fill="rgb(253,253,255)" stroke="#ffffff"/>
+<text x="507.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.01</text>
+<rect x="535" y="475" width="55" height="55" fill="rgb(242,242,255)" stroke="#ffffff"/>
+<text x="562.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.10</text>
+<rect x="590" y="475" width="55" height="55" fill="rgb(225,225,255)" stroke="#ffffff"/>
+<text x="617.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.22</text>
+<rect x="645" y="475" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="672.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="700" y="475" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="727.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.01</text>
+<rect x="755" y="475" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="508" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="565" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">voltaje_bateria_vdc</text>
+<rect x="260" y="530" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="287.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="315" y="530" width="55" height="55" fill="rgb(188,188,255)" stroke="#ffffff"/>
+<text x="342.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.51</text>
+<rect x="370" y="530" width="55" height="55" fill="rgb(255,246,246)" stroke="#ffffff"/>
+<text x="397.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.06</text>
+<rect x="425" y="530" width="55" height="55" fill="rgb(169,169,255)" stroke="#ffffff"/>
+<text x="452.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.66</text>
+<rect x="480" y="530" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="507.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.00</text>
+<rect x="535" y="530" width="55" height="55" fill="rgb(255,252,252)" stroke="#ffffff"/>
+<text x="562.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.02</text>
+<rect x="590" y="530" width="55" height="55" fill="rgb(255,226,226)" stroke="#ffffff"/>
+<text x="617.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.22</text>
+<rect x="645" y="530" width="55" height="55" fill="rgb(255,254,254)" stroke="#ffffff"/>
+<text x="672.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">-0.01</text>
+<rect x="700" y="530" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="727.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<rect x="755" y="530" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="782.5" y="563" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<text x="250" y="620" font-family="Arial" font-size="10" font-weight="normal" text-anchor="end" fill="#111827">velocidad_agua_m_s</text>
+<rect x="260" y="585" width="55" height="55" fill="rgb(240,240,255)" stroke="#ffffff"/>
+<text x="287.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.11</text>
+<rect x="315" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="342.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="370" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="397.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="425" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="452.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="480" y="585" width="55" height="55" fill="rgb(241,241,255)" stroke="#ffffff"/>
+<text x="507.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">0.10</text>
+<rect x="535" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="562.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="590" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="617.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="645" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="672.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="700" y="585" width="55" height="55" fill="#f3f4f6" stroke="#ffffff"/>
+<text x="727.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827"></text>
+<rect x="755" y="585" width="55" height="55" fill="rgb(125,125,255)" stroke="#ffffff"/>
+<text x="782.5" y="618" font-family="Arial" font-size="9" font-weight="normal" text-anchor="middle" fill="#111827">1.00</text>
+<text x="287.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 287.5 80)" fill="#111827">nivel_m</text>
+<text x="342.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 342.5 80)" fill="#111827">temperatura_c</text>
+<text x="397.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 397.5 80)" fill="#111827">humedad_pct</text>
+<text x="452.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 452.5 80)" fill="#111827">radiacion_solar_w_m2</text>
+<text x="507.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 507.5 80)" fill="#111827">lluvia_mm</text>
+<text x="562.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 562.5 80)" fill="#111827">direccion_viento_grados</text>
+<text x="617.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 617.5 80)" fill="#111827">velocidad_viento_m_s</text>
+<text x="672.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 672.5 80)" fill="#111827">presion_atmosferica_hpa</text>
+<text x="727.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 727.5 80)" fill="#111827">voltaje_bateria_vdc</text>
+<text x="782.5" y="80" font-family="Arial" font-size="10" text-anchor="start" transform="rotate(-45 782.5 80)" fill="#111827">velocidad_agua_m_s</text>
+</svg>

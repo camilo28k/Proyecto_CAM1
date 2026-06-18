@@ -1,0 +1,19 @@
+2026-06-12 14:42:58,950 - INFO - Cargando datos transformados desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\cam_transformado.csv
+2026-06-12 14:43:05,417 - INFO - Imputando variables para estacion: El_Batan
+2026-06-12 14:44:40,728 - INFO - Cargando datos transformados desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\cam_transformado.csv
+2026-06-12 14:44:46,522 - INFO - Imputando variables para estacion: El_Batan
+2026-06-12 14:46:55,926 - INFO - Cargando datos transformados desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\cam_transformado.csv
+2026-06-12 14:47:01,600 - INFO - Imputando variables para estacion: El_Batan
+2026-06-12 14:47:40,011 - INFO - Imputando variables para estacion: El_Meson
+2026-06-12 14:48:17,213 - INFO - Imputando variables para estacion: La_Lindosa
+2026-06-12 14:48:30,554 - INFO - Imputando variables para estacion: Las_Juntas
+2026-06-12 14:48:43,893 - INFO - Imputando variables para estacion: Los_Micos
+2026-06-12 14:48:57,788 - INFO - Imputando variables para estacion: Puente_Bruselas
+2026-06-12 14:49:13,325 - INFO - Imputando variables para estacion: San_Bartolo
+2026-06-12 14:49:36,398 - INFO - Imputando variables para estacion: San_Benito
+2026-06-12 14:49:51,903 - INFO - Imputando variables para estacion: Santa_Rosalia
+2026-06-12 14:50:33,499 - INFO - Imputacion general completada
+2026-06-12 14:50:33,499 - INFO - Archivo generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion_general\variables_modelo_imputadas.csv
+2026-06-12 14:50:33,499 - INFO - Resumen generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion_general\resumen_imputacion_general.csv
+2026-06-12 14:50:33,500 - INFO - Calidad generada: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion_general\calidad_variables_por_estacion.csv
+2026-06-12 14:50:33,500 - INFO - Tiempo ejecucion: 217.57s

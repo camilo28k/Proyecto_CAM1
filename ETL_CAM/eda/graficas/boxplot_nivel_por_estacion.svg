@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="600" y="35" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">Distribucion de nivel_m por estacion</text>
+<line x1="90" y1="570" x2="1070" y2="570" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="570" x2="90" y2="70" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="170.0" x2="1070" y2="170.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="270.0" x2="1070" y2="270.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="370.0" x2="1070" y2="370.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="470.0" x2="1070" y2="470.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="171.66666666666669" y1="438.6635944700462" x2="171.66666666666669" y2="199.032258064516" stroke="#2563eb" stroke-width="2"/>
+<rect x="146.66666666666669" y="288.8940092165898" width="50" height="59.90783410138255" fill="#2563eb" opacity="0.35" stroke="#2563eb"/>
+<line x1="146.66666666666669" y1="321.15207373271886" x2="196.66666666666669" y2="321.15207373271886" stroke="#2563eb" stroke-width="2"/>
+<text x="171.66666666666669" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">El_Batan</text>
+<line x1="335.0" y1="383.36405529953913" x2="335.0" y2="70.0" stroke="#dc2626" stroke-width="2"/>
+<rect x="310.0" y="187.5115207373272" width="50" height="78.34101382488478" fill="#dc2626" opacity="0.35" stroke="#dc2626"/>
+<line x1="310.0" y1="224.37788018433173" x2="360.0" y2="224.37788018433173" stroke="#dc2626" stroke-width="2"/>
+<text x="335.0" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">La_Lindosa</text>
+<line x1="498.33333333333337" y1="570.0" x2="498.33333333333337" y2="209.40092165898608" stroke="#16a34a" stroke-width="2"/>
+<rect x="473.33333333333337" y="351.10599078341005" width="50" height="94.47004608294935" fill="#16a34a" opacity="0.35" stroke="#16a34a"/>
+<line x1="473.33333333333337" y1="396.42089093701986" x2="523.3333333333334" y2="396.42089093701986" stroke="#16a34a" stroke-width="2"/>
+<text x="498.33333333333337" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">Las_Juntas</text>
+<line x1="661.6666666666666" y1="570.0" x2="661.6666666666666" y2="279.67741935483866" stroke="#9333ea" stroke-width="2"/>
+<rect x="636.6666666666666" y="390.27649769585247" width="50" height="73.73271889400922" fill="#9333ea" opacity="0.35" stroke="#9333ea"/>
+<line x1="636.6666666666666" y1="422.53456221198155" x2="686.6666666666666" y2="422.53456221198155" stroke="#9333ea" stroke-width="2"/>
+<text x="661.6666666666666" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">Los_Micos</text>
+<line x1="825.0" y1="356.65957698215755" x2="825.0" y2="159.56634763086367" stroke="#ea580c" stroke-width="2"/>
+<rect x="800.0" y="233.47630863759895" width="50" height="49.27330733782338" fill="#ea580c" opacity="0.35" stroke="#ea580c"/>
+<line x1="800.0" y1="258.9400921658986" x2="850.0" y2="258.9400921658986" stroke="#ea580c" stroke-width="2"/>
+<text x="825.0" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">Puente_Bruselas</text>
+<line x1="988.3333333333334" y1="421.38248847926275" x2="988.3333333333334" y2="209.40092165898596" stroke="#0891b2" stroke-width="2"/>
+<rect x="963.3333333333334" y="288.8940092165898" width="50" height="52.99539170506921" fill="#0891b2" opacity="0.35" stroke="#0891b2"/>
+<line x1="963.3333333333334" y1="324.7728768926925" x2="1013.3333333333334" y2="324.7728768926925" stroke="#0891b2" stroke-width="2"/>
+<text x="988.3333333333334" y="610" font-family="Arial" font-size="11" font-weight="normal" text-anchor="middle" fill="#374151">San_Benito</text>
+</svg>

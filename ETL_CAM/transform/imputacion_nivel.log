@@ -1,0 +1,17 @@
+2026-06-11 20:01:02,176 - INFO - Cargando datos transformados desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\cam_transformado.csv
+2026-06-11 20:01:10,374 - INFO - Imputando estacion: El_Batan
+2026-06-11 20:01:17,737 - INFO - Imputando estacion: El_Meson
+2026-06-11 20:01:18,466 - WARNING - Estacion omitida sin datos de nivel_m: El_Meson
+2026-06-11 20:01:18,475 - INFO - Imputando estacion: La_Lindosa
+2026-06-11 20:01:24,885 - INFO - Imputando estacion: Las_Juntas
+2026-06-11 20:01:32,298 - INFO - Imputando estacion: Los_Micos
+2026-06-11 20:01:38,759 - INFO - Imputando estacion: Puente_Bruselas
+2026-06-11 20:01:46,355 - INFO - Imputando estacion: San_Bartolo
+2026-06-11 20:01:46,814 - WARNING - Estacion omitida sin datos de nivel_m: San_Bartolo
+2026-06-11 20:01:46,827 - INFO - Imputando estacion: San_Benito
+2026-06-11 20:01:54,459 - INFO - Imputando estacion: Santa_Rosalia
+2026-06-11 20:01:54,649 - WARNING - Estacion omitida sin datos de nivel_m: Santa_Rosalia
+2026-06-11 20:01:54,669 - INFO - Imputacion de nivel completada
+2026-06-11 20:01:54,669 - INFO - Archivo generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion\nivel_m_imputado.csv
+2026-06-11 20:01:54,669 - INFO - Resumen generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion\resumen_imputacion_nivel.csv
+2026-06-11 20:01:54,669 - INFO - Tiempo ejecucion: 52.49s

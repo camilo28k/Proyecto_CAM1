@@ -1,0 +1,16 @@
+2026-06-11 19:44:43,715 - INFO - Cargando datos transformados desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\cam_transformado.csv
+2026-06-11 19:44:51,726 - INFO - Analizando estacion: El_Batan
+2026-06-11 19:44:57,701 - INFO - Analizando estacion: El_Meson
+2026-06-11 19:45:04,780 - INFO - Analizando estacion: La_Lindosa
+2026-06-11 19:45:12,641 - INFO - Analizando estacion: Las_Juntas
+2026-06-11 19:45:21,931 - INFO - Analizando estacion: Los_Micos
+2026-06-11 19:45:32,848 - INFO - Analizando estacion: Puente_Bruselas
+2026-06-11 19:45:36,516 - INFO - Analizando estacion: San_Bartolo
+2026-06-11 19:45:43,785 - INFO - Analizando estacion: San_Benito
+2026-06-11 19:45:51,254 - INFO - Analizando estacion: Santa_Rosalia
+2026-06-11 19:45:54,388 - INFO - Analisis de calidad temporal completado
+2026-06-11 19:45:54,388 - INFO - Resumen generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\calidad_temporal\resumen_calidad_temporal.csv
+2026-06-11 19:45:54,388 - INFO - Huecos generados: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\calidad_temporal\huecos_temporales.csv
+2026-06-11 19:45:54,388 - INFO - Estaciones analizadas: 9
+2026-06-11 19:45:54,388 - INFO - Huecos detectados: 140524
+2026-06-11 19:45:54,388 - INFO - Tiempo ejecucion: 70.68s

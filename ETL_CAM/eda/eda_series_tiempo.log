@@ -1,0 +1,4 @@
+2026-06-17 13:39:10,923 - INFO - Cargando datos desde C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\transform\data\imputacion_general\variables_modelo_imputadas.csv
+2026-06-17 13:39:55,915 - INFO - Registros cargados: 8523675
+2026-06-17 13:41:08,884 - INFO - Reportes generados en: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\eda\reportes
+2026-06-17 13:41:08,885 - INFO - Graficas generadas en: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\eda\graficas

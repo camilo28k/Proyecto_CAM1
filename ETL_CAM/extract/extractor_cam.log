@@ -1,0 +1,82 @@
+2026-06-11 16:53:42,056 - INFO - Extrayendo datos desde C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM
+2026-06-11 16:53:42,056 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2017.xlsx
+2026-06-11 16:53:43,522 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2018.xlsx
+2026-06-11 16:53:43,688 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2020.csv
+2026-06-11 16:53:43,710 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2021.csv
+2026-06-11 16:53:43,884 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2022.csv
+2026-06-11 16:53:43,987 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2023.csv
+2026-06-11 16:53:44,155 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2024.csv
+2026-06-11 16:53:44,324 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Batan\Batan_2025.csv
+2026-06-11 16:53:44,496 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El Meson 2017.xlsx
+2026-06-11 16:53:44,831 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El Meson 2018.xlsx
+2026-06-11 16:53:45,622 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El Meson 2019.xlsx
+2026-06-11 16:53:46,212 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2020.csv
+2026-06-11 16:53:46,301 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2021.csv
+2026-06-11 16:53:46,420 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2022.csv
+2026-06-11 16:53:46,541 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2023.csv
+2026-06-11 16:53:46,647 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2024.csv
+2026-06-11 16:53:46,812 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\El_Meson\El_Meson_2025.csv
+2026-06-11 16:53:46,969 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las Juntas_2017.xlsx
+2026-06-11 16:53:47,212 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las Juntas_2018.xlsx
+2026-06-11 16:53:47,716 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las Juntas_2019.xlsx
+2026-06-11 16:53:47,788 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2020.csv
+2026-06-11 16:53:47,855 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2021.csv
+2026-06-11 16:53:47,964 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2022.csv
+2026-06-11 16:53:48,059 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2023.csv
+2026-06-11 16:53:48,153 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2024.csv
+2026-06-11 16:53:48,225 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Las_Juntas\Las_Juntas_2025.csv
+2026-06-11 16:53:48,332 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La Lindosa 2017.xlsx
+2026-06-11 16:53:48,566 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La Lindosa 2018.xlsx
+2026-06-11 16:53:49,122 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La Lindosa 2019.xlsx
+2026-06-11 16:53:49,691 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La Lindosa 2020.xlsx
+2026-06-11 16:53:49,811 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2020.csv
+2026-06-11 16:53:49,915 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2021.csv
+2026-06-11 16:53:50,026 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2022.csv
+2026-06-11 16:53:50,128 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2023.csv
+2026-06-11 16:53:50,258 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2024.csv
+2026-06-11 16:53:50,361 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\La_Lindosa\La_Lindosa_2025.csv
+2026-06-11 16:53:50,453 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los Micos 2017.xlsx
+2026-06-11 16:53:50,652 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los Micos 2018.xlsx
+2026-06-11 16:53:51,076 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los Micos 2019.xlsx
+2026-06-11 16:53:51,488 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2020.csv
+2026-06-11 16:53:51,555 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2021.csv
+2026-06-11 16:53:51,654 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2022.csv
+2026-06-11 16:53:51,744 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2023.csv
+2026-06-11 16:53:51,846 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2024.csv
+2026-06-11 16:53:51,930 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Los_Micos\Los_Micos_2025.csv
+2026-06-11 16:53:52,005 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente Bruselas 2017.xlsx
+2026-06-11 16:53:52,298 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2020.csv
+2026-06-11 16:53:52,298 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2021.csv
+2026-06-11 16:53:52,316 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2022.csv
+2026-06-11 16:53:52,330 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2023.csv
+2026-06-11 16:53:52,347 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2024.csv
+2026-06-11 16:53:52,405 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Puente_Bruselas\Puente_Bruselas_2025.csv
+2026-06-11 16:53:52,489 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa Rosalia 2016.xlsx
+2026-06-11 16:53:52,555 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa Rosalia 2017.xlsx
+2026-06-11 16:53:53,433 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa Rosalia 2018.xlsx
+2026-06-11 16:53:54,003 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa_Rosalia_2021.csv
+2026-06-11 16:53:54,026 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa_Rosalia_2024.csv
+2026-06-11 16:53:54,074 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\Santa_Rosalia\Santa_Rosalia_2025.csv
+2026-06-11 16:53:54,215 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San Bartolo 2017.xlsx
+2026-06-11 16:53:54,612 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San Bartolo 2018.xlsx
+2026-06-11 16:53:55,236 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San Bartolo 2019.xlsx
+2026-06-11 16:53:55,753 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2020.csv
+2026-06-11 16:53:55,821 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2021.csv
+2026-06-11 16:53:55,904 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2022.csv
+2026-06-11 16:53:55,977 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2023.csv
+2026-06-11 16:53:56,042 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2024.csv
+2026-06-11 16:53:56,129 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Bartolo\San_Bartolo_2025.csv
+2026-06-11 16:53:56,226 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San Benito 2017.xlsx
+2026-06-11 16:53:56,688 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San Benito 2018.xlsx
+2026-06-11 16:53:56,739 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2020.csv
+2026-06-11 16:53:56,805 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2021.csv
+2026-06-11 16:53:56,879 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2022.csv
+2026-06-11 16:53:56,929 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2023.csv
+2026-06-11 16:53:56,945 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2024.csv
+2026-06-11 16:53:57,010 - INFO - Procesando C:\Users\USUARIO\Documents\Proyecto CAM 1\Datos_CAM\San_Benito\San_Benito_2025.csv
+2026-06-11 16:54:34,055 - INFO - Extraccion completada
+2026-06-11 16:54:34,055 - INFO - Archivo generado: C:\Users\USUARIO\Documents\Proyecto CAM 1\ETL_CAM\extract\data\cam_extraido.csv
+2026-06-11 16:54:34,055 - INFO - Registros extraidos: 3968702
+2026-06-11 16:54:34,055 - INFO - Archivos procesados: 75
+2026-06-11 16:54:34,055 - INFO - Archivos fallidos: 0
+2026-06-11 16:54:34,055 - INFO - Tiempo ejecucion: 52.0s

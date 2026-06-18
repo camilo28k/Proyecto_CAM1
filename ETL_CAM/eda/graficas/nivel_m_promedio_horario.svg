@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="600" y="35" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">Promedio horario de nivel_m</text>
+<line x1="90" y1="570" x2="990" y2="570" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="570" x2="90" y2="70" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="170.0" x2="990" y2="170.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="270.0" x2="990" y2="270.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="370.0" x2="990" y2="370.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="470.0" x2="990" y2="470.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="540" y="660" font-family="Arial" font-size="14" font-weight="normal" text-anchor="middle" fill="#111827">Hora del dia</text>
+<text x="20" y="330" font-family="Arial" font-size="14" font-weight="normal" text-anchor="middle" fill="#111827">Nivel promedio (m)</text>
+<text x="80" y="574.0" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.34</text>
+<text x="80" y="474.0" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.44</text>
+<text x="80" y="374.0000000000001" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.55</text>
+<text x="80" y="274.00000000000006" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.65</text>
+<text x="80" y="174.00000000000006" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.75</text>
+<text x="80" y="74.0" font-family="Arial" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0.85</text>
+<polyline points="90.00,312.38 129.13,311.48 168.26,312.29 207.39,311.23 246.52,311.65 285.65,311.30 324.78,313.23 363.91,316.47 403.04,318.43 442.17,321.92 481.30,322.76 520.43,322.77 559.57,323.07 598.70,323.00 637.83,323.66 676.96,322.60 716.09,318.28 755.22,313.96 794.35,313.41 833.48,311.13 872.61,311.14 911.74,311.13 950.87,310.65 990.00,311.19" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<rect x="1020" y="80" width="12" height="12" fill="#2563eb"/>
+<text x="1040" y="90" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">El_Batan</text>
+<polyline points="90.00,118.49 129.13,115.72 168.26,114.03 207.39,111.68 246.52,111.06 285.65,109.76 324.78,108.32 363.91,110.65 403.04,117.38 442.17,124.47 481.30,128.64 520.43,131.71 559.57,134.79 598.70,136.23 637.83,135.13 676.96,133.61 716.09,132.03 755.22,129.12 794.35,125.92 833.48,123.28 872.61,123.63 911.74,122.80 950.87,121.50 990.00,120.50" fill="none" stroke="#16a34a" stroke-width="1.5"/>
+<rect x="1020" y="124" width="12" height="12" fill="#16a34a"/>
+<text x="1040" y="134" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">La_Lindosa</text>
+<polyline points="90.00,486.73 129.13,486.64 168.26,487.25 207.39,486.73 246.52,485.33 285.65,483.69 324.78,481.67 363.91,475.49 403.04,477.56 442.17,478.15 481.30,480.74 520.43,483.67 559.57,484.13 598.70,483.79 637.83,482.76 676.96,481.08 716.09,478.22 755.22,476.00 794.35,474.92 833.48,477.90 872.61,481.92 911.74,484.24 950.87,487.11 990.00,486.69" fill="none" stroke="#9333ea" stroke-width="1.5"/>
+<rect x="1020" y="146" width="12" height="12" fill="#9333ea"/>
+<text x="1040" y="156" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">Las_Juntas</text>
+<polyline points="90.00,542.39 129.13,539.87 168.26,538.23 207.39,536.66 246.52,537.56 285.65,539.40 324.78,539.95 363.91,535.97 403.04,541.38 442.17,550.89 481.30,559.18 520.43,564.71 559.57,567.16 598.70,568.92 637.83,570.00 676.96,569.10 716.09,565.37 755.22,558.96 794.35,552.72 833.48,550.14 872.61,548.46 911.74,546.85 950.87,546.10 990.00,545.84" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<rect x="1020" y="168" width="12" height="12" fill="#ea580c"/>
+<text x="1040" y="178" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">Los_Micos</text>
+<polyline points="90.00,182.82 129.13,182.33 168.26,181.29 207.39,181.80 246.52,180.19 285.65,179.06 324.78,178.96 363.91,180.86 403.04,187.31 442.17,197.42 481.30,200.76 520.43,204.12 559.57,207.89 598.70,204.85 637.83,202.42 676.96,199.03 716.09,196.29 755.22,189.47 794.35,182.04 833.48,182.91 872.61,182.89 911.74,183.34 950.87,183.14 990.00,183.56" fill="none" stroke="#0891b2" stroke-width="1.5"/>
+<rect x="1020" y="190" width="12" height="12" fill="#0891b2"/>
+<text x="1040" y="200" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">Puente_Bruselas</text>
+<polyline points="90.00,78.06 129.13,77.85 168.26,75.79 207.39,74.00 246.52,71.71 285.65,70.78 324.78,70.00 363.91,70.83 403.04,82.71 442.17,95.06 481.30,100.33 520.43,111.93 559.57,108.80 598.70,127.82 637.83,124.87 676.96,113.45 716.09,95.99 755.22,85.14 794.35,76.16 833.48,80.49 872.61,81.55 911.74,80.85 950.87,82.88 990.00,80.59" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+<rect x="1020" y="234" width="12" height="12" fill="#4f46e5"/>
+<text x="1040" y="244" font-family="Arial" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">San_Benito</text>
+</svg>

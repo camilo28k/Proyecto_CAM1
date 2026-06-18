@@ -1,0 +1,14 @@
+# Datos generados
+*.csv
+
+# Carpetas de datos
+ETL_CAM/extract/data/
+ETL_CAM/transform/data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env

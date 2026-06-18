@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="600" y="35" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">Porcentaje de imputacion por variable</text>
+<line x1="90" y1="570" x2="1040" y2="570" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="570" x2="90" y2="70" stroke="#374151" stroke-width="1"/>
+<line x1="90" y1="170.0" x2="1040" y2="170.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="270.0" x2="1040" y2="270.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="370.0" x2="1040" y2="370.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="90" y1="470.0" x2="1040" y2="470.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="560" y="660" font-family="Arial" font-size="14" font-weight="normal" text-anchor="middle" fill="#111827">Variable</text>
+<text x="25" y="330" font-family="Arial" font-size="14" font-weight="normal" text-anchor="middle" fill="#111827">Imputacion (%)</text>
+<rect x="104.25" y="70.0" width="66.5" height="500.0" fill="#2563eb"/>
+<text x="137.5" y="64.0" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">59.3%</text>
+<text x="137.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">lluvia_mm</text>
+<rect x="199.25" y="225.6968570518522" width="66.5" height="344.3031429481478" fill="#dc2626"/>
+<text x="232.5" y="219.6968570518522" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">40.8%</text>
+<text x="232.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">nivel_m</text>
+<rect x="294.25" y="263.35197586632654" width="66.5" height="306.64802413367346" fill="#16a34a"/>
+<text x="327.5" y="257.35197586632654" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">36.3%</text>
+<text x="327.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">temperatura_c</text>
+<rect x="389.25" y="322.04517204784054" width="66.5" height="247.95482795215946" fill="#9333ea"/>
+<text x="422.5" y="316.04517204784054" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">29.4%</text>
+<text x="422.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">radiacion_solar_w_m2</text>
+<rect x="484.25" y="332.3363095267554" width="66.5" height="237.66369047324463" fill="#ea580c"/>
+<text x="517.5" y="326.3363095267554" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">28.2%</text>
+<text x="517.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">humedad_pct</text>
+<rect x="579.25" y="364.4332124260942" width="66.5" height="205.5667875739058" fill="#0891b2"/>
+<text x="612.5" y="358.4332124260942" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">24.4%</text>
+<text x="612.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">presion_atmosferica_hpa</text>
+<rect x="674.25" y="379.65216287893713" width="66.5" height="190.34783712106287" fill="#be123c"/>
+<text x="707.5" y="373.65216287893713" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">22.6%</text>
+<text x="707.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">direccion_viento_grados</text>
+<rect x="769.25" y="381.1663572885131" width="66.5" height="188.8336427114869" fill="#4f46e5"/>
+<text x="802.5" y="375.1663572885131" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">22.4%</text>
+<text x="802.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">velocidad_viento_m_s</text>
+<rect x="864.25" y="439.41355007026584" width="66.5" height="130.58644992973416" fill="#65a30d"/>
+<text x="897.5" y="433.41355007026584" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">15.5%</text>
+<text x="897.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">velocidad_agua_m_s</text>
+<rect x="959.25" y="490.4243228439061" width="66.5" height="79.57567715609389" fill="#0f766e"/>
+<text x="992.5" y="484.4243228439061" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">9.4%</text>
+<text x="992.5" y="610" font-family="Arial" font-size="10" font-weight="normal" text-anchor="middle" fill="#111827">voltaje_bateria_vdc</text>
+</svg>
