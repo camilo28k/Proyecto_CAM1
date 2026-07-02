@@ -1,6 +1,3 @@
-# Datos generados
-*.csv
-
 # Carpetas de datos
 ETL_CAM/extract/data/
 ETL_CAM/transform/data/
@@ -20,8 +17,6 @@ __pycache__/
 # Logs
 *.log
 
-# Datos generados
-*.csv
 
 # Entornos virtuales
 venv/
