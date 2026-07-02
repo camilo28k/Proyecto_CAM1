@@ -1,6 +1,6 @@
 # Carpetas de datos
 ETL_CAM/extract/data/
-ETL_CAM/transform/data/
+ETL_CAM/transform/
 
 # Python
 __pycache__/
